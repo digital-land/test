@@ -1,0 +1,9 @@
+[submodule "docs/submodule/specification"]
+	path = docs/submodule/specification
+	url = https://github.com/digital-land/specification
+[submodule "docs/submodule/organisation"]
+	path = docs/submodule/organisation
+	url = https://github.com/digital-land/organisation
+[submodule "docs/submodule/dataset"]
+	path = docs/submodule/dataset
+	url = https://github.com/digital-land/dataset
